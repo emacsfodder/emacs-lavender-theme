@@ -1,14 +1,4 @@
 
-# emacs-lavender-theme
+# Emacs lavender theme
 
-TODO: Add a proper README.md
-
-## Description
-
-## Usage
-
-## Licence
-
-## Contributing
-
-
+![](https://github.com/emacsfodder/emacs-lavender-theme/raw/master/lavender-theme.png)
